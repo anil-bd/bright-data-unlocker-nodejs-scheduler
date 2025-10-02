@@ -2,6 +2,7 @@
 
 This project demonstrates how to use Bright Data's Web Unlocker API to scrape web content and store the results in a local JSON file, with automated daily runs using GitHub Actions.
 
+
 ## Features
 
 * Fetch web content through Bright Data's Unlocker API
