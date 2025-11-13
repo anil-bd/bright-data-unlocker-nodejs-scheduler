@@ -1,0 +1,13 @@
+{
+  "status_code": 200,
+  "headers": {
+    "access-control-allow-origin": "*",
+    "cache-control": "no-store",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Thu, 13 Nov 2025 06:15:27 GMT",
+    "server": "nginx",
+    "connection": "close",
+    "transfer-encoding": "chunked"
+  },
+  "body": "\nWelcome to Bright Data! Here are your proxy details\nCountry: US\nCity: McDonough\nRegion: GA\nPostal Code: 30252\nLatitude: 33.4772\nLongitude: -84.0554\nTimezone: America/New_York\nASN number: 7018\nASN Organization name: ATT-INTERNET4\nIP version: IPv4\n\nCommon usage examples:\n\n[USERNAME]-country-us:[PASSWORD]  // US based Proxy\n[USERNAME]-country-us-state-ny:[PASSWORD]  // US proxy from NY\n[USERNAME]-asn-56386:[PASSWORD]  // proxy from ASN 56386\n[USERNAME]-ip-1.1.1.1.1:[PASSWORD]  // proxy from dedicated pool\n\nTo get a simple JSON response, use https://geo.brdtest.com/mygeo.json .\n\nMore examples on https://docs.brightdata.com/api-reference/introduction\n\n"
+}
