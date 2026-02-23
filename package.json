@@ -1,5 +1,5 @@
 {
-  "name": "bright-data-unlocker-aws-s3-storage-nodejs-project",
+  "name": "@brightdata/bright-data-unlocker-aws-s3-storage-nodejs-project",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
